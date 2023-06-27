@@ -45,7 +45,8 @@ Output : returns an object with details for one student
 
 ## Database Setup
 
-In app.py file edit line number 17 with appropriate db details in the format "mysql://[username]:[password]@[host]/[db_name]"
+In app.py file edit line number 17 with appropriate db details in the format "mysql://[username]:[password]@[host]/[db_name]".
+
 Use the provided sql file (lifebyte.sql) to populate the data in the database.
 
 ## Technologies Used
